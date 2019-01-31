@@ -1,0 +1,7 @@
+C:\Users\rosad\OneDrive\Desktop\Biblioteca Ágil\obj\Debug\Biblioteca Ágil.csprojAssemblyReference.cache
+C:\Users\rosad\OneDrive\Desktop\Biblioteca Ágil\obj\Debug\Biblioteca Ágil.csproj.CoreCompileInputs.cache
+C:\Users\rosad\OneDrive\Desktop\Biblioteca Ágil\bin\Debug\Biblioteca Ágil.exe.config
+C:\Users\rosad\OneDrive\Desktop\Biblioteca Ágil\bin\Debug\Biblioteca Ágil.exe
+C:\Users\rosad\OneDrive\Desktop\Biblioteca Ágil\bin\Debug\Biblioteca Ágil.pdb
+C:\Users\rosad\OneDrive\Desktop\Biblioteca Ágil\obj\Debug\Biblioteca Ágil.exe
+C:\Users\rosad\OneDrive\Desktop\Biblioteca Ágil\obj\Debug\Biblioteca Ágil.pdb
